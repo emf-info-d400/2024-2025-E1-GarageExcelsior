@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<profiles version="20">
+    <profile kind="CodeFormatterProfile" name="JavaConventions" version="20">
+        <setting id="org.eclipse.jdt.core.formatter.comment.format_line_comments" value="false"/>
+    </profile>
+</profiles>
